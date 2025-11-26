@@ -46,12 +46,6 @@ My personality is a mix of engineering precision and artistic curiosity:
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FenrisHector&show_icons=true&theme=dracula&hide_border=true" alt="Héctor's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenrisHector&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/héctor-zamorano-garcía-84997b388/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
