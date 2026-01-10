@@ -42,7 +42,7 @@ My personality is a mix of engineering precision and artistic curiosity:
 
 * **The Self-Taught Athlete:** Expert in **Hypertrophy & Strength Training**. I apply the same consistency and data-driven approach to the gym as I do to my algorithms.
 * **The Creative Soul:** Passionate about **Streetwear, Interior Design, and Art Books**. I believe software should not only work well but also feel "aesthetic" and structured.
-* **The Energy:** I recharge with **Racket Sports**, **Anime**, and **Latin Music**. I am a sea lover and fascinated by marine life 🌊.
+* **The Energy:** I recharge with **Racket Sports**, **Anime**, and **Latin Music**. I am a sea lover and fascinated by marine life.
 
 ---
 
