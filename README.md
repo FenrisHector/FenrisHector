@@ -2,11 +2,11 @@
 
 **Computer Engineering Student | AI & Data Enthusiast | Software Developer**
 
-I am a curious, proactive, and responsible engineer who defines himself as a **creative leader** (although my code is definitely cleaner than my drawings 🎨). I thrive in collaborative environments and I am not afraid to step out of my comfort zone to present a project or lead a team.
+I am a curious, proactive, and responsible engineer who defines himself as a **creative leader** (although my code is definitely cleaner than my drawings). I thrive in collaborative environments and I am not afraid to step out of my comfort zone to present a project or lead a team.
 
 ---
 
-### 🚀 Professional Vision & Engineering Approach
+### Professional Vision & Engineering Approach
 
 I don't just write code; **I build solutions**. My approach to engineering is hybrid, bridging the gap between raw technical implementation and strategic business logic.
 
@@ -18,7 +18,7 @@ I don't just write code; **I build solutions**. My approach to engineering is hy
 
 ---
 
-### 🎯 Career Objective: The Road to Switzerland 🇨🇭
+### Career Objective: The Road to Switzerland 🇨🇭
 
 My professional goal is to establish my career in the **Swiss Tech Industry**. I admire the precision, quality, and innovation of the DACH region.
 
@@ -28,7 +28,7 @@ My professional goal is to establish my career in the **Swiss Tech Industry**. I
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Core:** Java (Object-Oriented Programming), R (Statistical Analysis), SQL (Relational DBs).
 * **Data & AI:** Machine Learning (Clustering, Regression), Data Visualization (ggplot2), Database Design (ERD).
@@ -36,7 +36,7 @@ My professional goal is to establish my career in the **Swiss Tech Industry**. I
 
 ---
 
-### 🧠 The Personal Side: Discipline & Creativity
+### The Personal Side: Discipline & Creativity
 
 My personality is a mix of engineering precision and artistic curiosity:
 
