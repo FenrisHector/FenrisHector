@@ -12,9 +12,9 @@ I don't just write code; **I build solutions**. My approach to engineering is hy
 
 **What I bring to the table:**
 
-* 💻 **Software Craftsmanship:** I believe in writing clean, scalable, and maintainable code. My background in **Java (OOP)** and **Software Architecture** allows me to design robust systems, not just scripts.
-* 📊 **Data-Driven Intelligence:** I use **Machine Learning** and **Data Science** (R, SQL, Clustering) to uncover patterns and support decision-making. I turn data into actionable insights (like in my Casino User Segmentation project).
-* 🤝 **Leadership & Management:** Unlike the typical quiet dev, I am **"echado para adelante"** (bold & proactive). I hold a **Certification in Team Management**, and I excel at public speaking, team coordination, and translating technical jargon into human language.
+* **Software Craftsmanship:** I believe in writing clean, scalable, and maintainable code. My background in **Java (OOP)** and **Software Architecture** allows me to design robust systems, not just scripts.
+* **Data-Driven Intelligence:** I use **Machine Learning** and **Data Science** (R, SQL, Clustering) to uncover patterns and support decision-making. I turn data into actionable insights (like in my Casino User Segmentation project).
+* **Leadership & Management:** Unlike the typical quiet dev, I am **"echado para adelante"** (bold & proactive). I hold a **Certification in Team Management**, and I excel at public speaking, team coordination, and translating technical jargon into human language.
 
 ---
 
